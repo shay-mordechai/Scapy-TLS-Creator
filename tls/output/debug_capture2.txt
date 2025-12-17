@@ -1,0 +1,107 @@
+Wireshark SSL debug log 
+
+GnuTLS version:    3.8.4
+Libgcrypt version: 1.10.2-unknown
+
+
+dissect_ssl enter frame #1121 (first time)
+packet_from_server: is from server - FALSE
+  conversation = 000002ED23070040, ssl_session = 000002ED23070B90
+  record: offset = 0, reported_length_remaining = 36
+
+dissect_ssl enter frame #1123 (first time)
+packet_from_server: is from server - TRUE
+  conversation = 000002ED23070040, ssl_session = 000002ED23070B90
+  record: offset = 0, reported_length_remaining = 2
+  need_desegmentation: offset = 0, reported_length_remaining = 2
+
+dissect_ssl enter frame #1125 (first time)
+packet_from_server: is from server - FALSE
+  conversation = 000002ED23070040, ssl_session = 000002ED23070B90
+  record: offset = 0, reported_length_remaining = 127
+
+dissect_ssl enter frame #1129 (first time)
+packet_from_server: is from server - FALSE
+  conversation = 000002ED23070040, ssl_session = 000002ED23070B90
+  record: offset = 0, reported_length_remaining = 2
+  need_desegmentation: offset = 0, reported_length_remaining = 2
+
+dissect_ssl enter frame #1131 (first time)
+packet_from_server: is from server - TRUE
+  conversation = 000002ED23070040, ssl_session = 000002ED23070B90
+  record: offset = 0, reported_length_remaining = 3
+  need_desegmentation: offset = 0, reported_length_remaining = 3
+
+dissect_ssl enter frame #1121 (already visited)
+packet_from_server: is from server - FALSE
+  conversation = 000002ED23070040, ssl_session = 0000000000000000
+  record: offset = 0, reported_length_remaining = 36
+
+dissect_ssl enter frame #1125 (already visited)
+packet_from_server: is from server - FALSE
+  conversation = 000002ED23070040, ssl_session = 0000000000000000
+  record: offset = 0, reported_length_remaining = 127
+
+dissect_ssl enter frame #1131 (already visited)
+packet_from_server: is from server - TRUE
+  conversation = 000002ED23070040, ssl_session = 0000000000000000
+  record: offset = 0, reported_length_remaining = 3
+  need_desegmentation: offset = 0, reported_length_remaining = 3
+
+dissect_ssl enter frame #1121 (already visited)
+packet_from_server: is from server - FALSE
+  conversation = 000002ED23070040, ssl_session = 0000000000000000
+  record: offset = 0, reported_length_remaining = 36
+
+dissect_ssl enter frame #1125 (already visited)
+packet_from_server: is from server - FALSE
+  conversation = 000002ED23070040, ssl_session = 0000000000000000
+  record: offset = 0, reported_length_remaining = 127
+
+dissect_ssl enter frame #1131 (already visited)
+packet_from_server: is from server - TRUE
+  conversation = 000002ED23070040, ssl_session = 0000000000000000
+  record: offset = 0, reported_length_remaining = 3
+  need_desegmentation: offset = 0, reported_length_remaining = 3
+
+dissect_ssl enter frame #1121 (already visited)
+packet_from_server: is from server - FALSE
+  conversation = 000002ED23070040, ssl_session = 0000000000000000
+  record: offset = 0, reported_length_remaining = 36
+
+dissect_ssl enter frame #1125 (already visited)
+packet_from_server: is from server - FALSE
+  conversation = 000002ED23070040, ssl_session = 0000000000000000
+  record: offset = 0, reported_length_remaining = 127
+
+dissect_ssl enter frame #1131 (already visited)
+packet_from_server: is from server - TRUE
+  conversation = 000002ED23070040, ssl_session = 0000000000000000
+  record: offset = 0, reported_length_remaining = 3
+  need_desegmentation: offset = 0, reported_length_remaining = 3
+
+dissect_ssl enter frame #1121 (already visited)
+packet_from_server: is from server - FALSE
+  conversation = 000002ED23070040, ssl_session = 0000000000000000
+  record: offset = 0, reported_length_remaining = 36
+
+dissect_ssl enter frame #1125 (already visited)
+packet_from_server: is from server - FALSE
+  conversation = 000002ED23070040, ssl_session = 0000000000000000
+  record: offset = 0, reported_length_remaining = 127
+
+dissect_ssl enter frame #1131 (already visited)
+packet_from_server: is from server - TRUE
+  conversation = 000002ED23070040, ssl_session = 0000000000000000
+  record: offset = 0, reported_length_remaining = 3
+  need_desegmentation: offset = 0, reported_length_remaining = 3
+
+dissect_ssl enter frame #1121 (already visited)
+packet_from_server: is from server - FALSE
+  conversation = 000002ED23070040, ssl_session = 0000000000000000
+  record: offset = 0, reported_length_remaining = 36
+
+dissect_ssl enter frame #1125 (already visited)
+packet_from_server: is from server - FALSE
+  conversation = 000002ED23070040, ssl_session = 0000000000000000
+  record: offset = 0, reported_length_remaining = 127
